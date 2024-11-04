@@ -1,0 +1,9 @@
+# Ignore .venv files
+.venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__
+
+# Ignore dataset
+data/
