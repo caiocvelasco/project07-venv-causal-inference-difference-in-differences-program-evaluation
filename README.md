@@ -1,7 +1,7 @@
 # Causal Inference Method (Difference-in-Differences): Measuring the Effect of a new Customer-Satisfaction Program at an Airline Company
 * To check the Notebook for the Airline Project, go to its folder above (`airline_project`)
 
-<img src = "img\airline.jpg">
+<img src = "airline_project\img\airline.jpg">
 
 ## Table of Contents
 
